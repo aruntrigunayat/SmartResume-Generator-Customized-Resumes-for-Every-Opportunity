@@ -4,7 +4,7 @@ import json
 
 
 # Configure Google Gemini API
-API_KEY = "AIzaSyD4PDnHaB3fqfIMovfiDAlOKuV2SjHfX0s"
+API_KEY = "Add Api key"
 genai.configure(api_key=API_KEY)
 
 
